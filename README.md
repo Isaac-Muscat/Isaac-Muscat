@@ -1,1 +1,1 @@
-I love exploring the world, learning new skills, and creating computer programs.
+I love exploring the world, learning new skills, and creating computer programs. My current interests are in embedded systems, analog, and digital design. For fun, I also like to work on a game engine.
