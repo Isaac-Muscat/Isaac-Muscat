@@ -1,1 +1,1 @@
-I love exploring the world, learning new skills, and creating computer programs. My current interests are in embedded systems, analog, and digital design. After experimenting with varying projects, I have settled on making a game engine as a long-term hobby programming project that I hope can utilize as many concepts in programming as possible.
+I enjoy reading, learning, and trying to understand modern technology.
